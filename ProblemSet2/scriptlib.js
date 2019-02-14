@@ -18,7 +18,10 @@ $(document).ready(function(){
           }); // end .each
        $("#table1").DataTable( {
            data:  dataSet,
+          "bAutoWidth": false,
            retrieve: true,
+
+
            columns: [
              { title: "Page #",
                  defaultContent:"" },
