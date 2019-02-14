@@ -57,7 +57,7 @@
 						<h3 class="section-subheading" style="color:#fff">DECLARATION</h3>
 					</li>
 					<li class="list-inline-item">
-						<p style="color:#fff">This Website is created and transferred to WordPress by Jianxiang Sun as the coursework of COMM5940 in CUHK</p>
+						<p style="color:#fff">This Website was created and transferred to WordPress by Jianxiang Sun as the coursework of COMM5940 in CUHK, This Website was created and transferred to WordPress by Jianxiang Sun as the coursework of COMM5940 in CUHK, with Xuting Xue's guidance of Airpress</p>
 					</li>
 				</ul>
 			</div>
